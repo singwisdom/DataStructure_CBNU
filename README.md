@@ -1,2 +1,2 @@
 # Tutorial-Chungbuk
-for the Tutorial
+for the Data Structure
